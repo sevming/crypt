@@ -5,8 +5,7 @@ namespace Sevming\Crypt;
 use Sevming\Crypt\Contracts\CryptInterface;
 use Sevming\Support\Collection;
 use Sevming\Support\Str;
-use RuntimeException;
-use InvalidArgumentException;
+use \RuntimeException, \InvalidArgumentException;
 
 class Crypt
 {

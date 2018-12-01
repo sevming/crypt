@@ -4,7 +4,7 @@ namespace Sevming\Crypt\Driver;
 
 use Sevming\Crypt\Contracts\CryptInterface;
 use Sevming\Support\Collection;
-use Exception, InvalidArgumentException;
+use \Exception, \InvalidArgumentException;
 
 /**
  * Aes Modify From Illuminate\Encryption\Encrypter
