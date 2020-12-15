@@ -1,3 +1,5 @@
+## 本项目不再维护, 迁移至 [support](https://github.com/sevming/support)
+
 #### AES
 > PHP、iOS、Android 三端加解密
 ```php
